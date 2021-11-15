@@ -1,4 +1,5 @@
 # Eulerian_video_magnification_python
+This repository is a python implementation of Eulerian Video Magnification that can reveal tiny motion and can make the color changes due to blood flow apparent. 
 
 # Run
 python euler_mag.py input_video.avi
@@ -34,6 +35,15 @@ My face video with magnified motion and color
 
 https://user-images.githubusercontent.com/20353960/141692571-4d051b3a-ec00-4d7c-b1ea-6cf1b76e6e16.mp4
 
-
+# References
+@article{Wu12Eulerian,
+  author = {Hao-Yu Wu and Michael Rubinstein and Eugene Shih and John Guttag and Fr\'{e}do Durand and
+  William T. Freeman},
+  title = {Eulerian Video Magnification for Revealing Subtle Changes in the World},
+  journal = {ACM Transactions on Graphics (Proc. SIGGRAPH 2012)},
+  year = {2012},
+  volume = {31},
+  number = {4},
+}
 
 
